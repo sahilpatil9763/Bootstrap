@@ -1,1 +1,1 @@
-# Simple one page website for a fake bootcamp
+# Simple one page Responsive website 
